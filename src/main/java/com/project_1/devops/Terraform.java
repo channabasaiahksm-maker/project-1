@@ -1,12 +1,18 @@
 package com.project_1.devops;
 
 public class Terraform {
+    public   static void
 
-```
-    public static void main(String[] args) {
+
+            provider (aws)
+    main(String[] args) {
         System.out.println("type modi");
     }
-```
+
+
+
+
+
 
 
 
